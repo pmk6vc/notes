@@ -1,0 +1,1 @@
+A collection of my notes on computer science and becoming a better engineer. 
